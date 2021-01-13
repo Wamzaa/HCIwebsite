@@ -1,0 +1,5 @@
+baseURL = "https://Wamzaa.github.io/HCIwebsite"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "binario"
+publishDir = "docs"
