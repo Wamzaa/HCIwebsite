@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Wamzaa.github.io/HCIwebsite/posts/my-first-post/</loc>
-    <lastmod>2021-01-12T22:24:37+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://Wamzaa.github.io/HCIwebsite/</loc>
-    <lastmod>2021-01-12T22:24:37+01:00</lastmod>
+    <lastmod>2021-01-13T16:05:52+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://Wamzaa.github.io/HCIwebsite/posts/</loc>
+    <lastmod>2021-01-13T16:05:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Wamzaa.github.io/HCIwebsite/posts/test/</loc>
+    <lastmod>2021-01-13T16:05:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Wamzaa.github.io/HCIwebsite/posts/my-first-post/</loc>
     <lastmod>2021-01-12T22:24:37+01:00</lastmod>
   </url>
   
