@@ -5,6 +5,16 @@
     <link>https://Wamzaa.github.io/HCIwebsite/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://Wamzaa.github.io/HCIwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2021 22:24:37 +0100</lastBuildDate><atom:link href="https://Wamzaa.github.io/HCIwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/my-first-post/</link>
+      <pubDate>Tue, 12 Jan 2021 22:24:37 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/my-first-post/</guid>
+      <description>Text, italic, Hello World ! test musique bien</description>
+    </item>
+    
   </channel>
 </rss>
