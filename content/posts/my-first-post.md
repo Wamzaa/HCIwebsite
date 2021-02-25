@@ -12,4 +12,4 @@ and I'm quite slow but it's not a real obstacle.
 
 The website looks like that :
 
-![alt text](https://wamzaa.github.io/HCIwebsite/static/img/website.png "Website")
+![alt text](https://github.com/Wamzaa/HCIwebsite/blob/master/static/img/website.PNG "Website")
