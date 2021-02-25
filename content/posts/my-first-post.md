@@ -1,12 +1,11 @@
 ---
-title: "My First Post"
+title: "Lab Homework 1 : Setup Blog"
 date: 2021-01-12T22:24:37+01:00
 draft: false
 ---
-Text, *italic*, **Hello World !**
-~~test~~
-[musique bien](https://www.youtube.com/watch?v=ckSEnb_I3Zg "yolololoj")
+For my blog, I used Hugo. I chose Hugo because it was my first blog and everything about the setup was explain in the slides so it wasn't too hard to setup the blog.
+The theme that I used is named binario.
 
-Ceci est le premier post, je fais toujours des tests, Blablabla
-
-
+I didn't encounter major obstacles since each steps of the setup was explained in the slides. The few problems I had are stupid mistakes with Git and mistakes 
+when testing the blog. To fix these problems, I read more in details the slides. Moreover, since it's my first blog, I'm struggling a bit, 
+and I'm quite slow but it's not a real obstacle.

@@ -6,24 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jan 2021 16:05:52 +0100</lastBuildDate><atom:link href="https://Wamzaa.github.io/HCIwebsite/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 22:24:37 +0100</lastBuildDate><atom:link href="https://Wamzaa.github.io/HCIwebsite/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://Wamzaa.github.io/HCIwebsite/posts/test/</link>
-      <pubDate>Wed, 13 Jan 2021 16:05:52 +0100</pubDate>
-      
-      <guid>https://Wamzaa.github.io/HCIwebsite/posts/test/</guid>
-      <description>test</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
+      <title>Lab Homework 1 : Setup Blog</title>
       <link>https://Wamzaa.github.io/HCIwebsite/posts/my-first-post/</link>
       <pubDate>Tue, 12 Jan 2021 22:24:37 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/my-first-post/</guid>
-      <description>Text, italic, Hello World ! test musique bien
-Ceci est le premier post, je fais toujours des tests, Blablabla</description>
+      <description>For my blog, I used Hugo. I chose Hugo because it was my first blog and everything about the setup was explain in the slides so it wasn&amp;rsquo;t too hard to setup the blog. The theme that I used is named binario.
+I didn&amp;rsquo;t encounter major obstacles since each steps of the setup was explained in the slides. The few problems I had are stupid mistakes with Git and mistakes when testing the blog.</description>
     </item>
     
   </channel>
