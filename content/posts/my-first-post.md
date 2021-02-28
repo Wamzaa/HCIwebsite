@@ -10,6 +10,6 @@ I didn't encounter major obstacles since each steps of the setup was explained i
 when testing the blog. To fix these problems, I read more in details the slides. Moreover, since it's my first blog, I'm struggling a bit, 
 and I'm quite slow but it's not a real obstacle.
 
-The website looks like that :
+The blog looks like that :
 
-![alt text](https://github.com/Wamzaa/HCIwebsite/blob/master/static/img/website.PNG "Website")
+{{< figure src="https://github.com/Wamzaa/HCIwebsite/blob/master/static/img/website.PNG?raw=true" title="My first post on the blog :)" >}}
