@@ -6,7 +6,25 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 15:34:34 +0100</lastBuildDate><atom:link href="https://Wamzaa.github.io/HCIwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 15:48:18 +0100</lastBuildDate><atom:link href="https://Wamzaa.github.io/HCIwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class Homework 2 : Ultimate Display</title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/class2-post/</link>
+      <pubDate>Sun, 28 Feb 2021 15:48:18 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/class2-post/</guid>
+      <description>Ivan Sutherland speak about powerfull technologies such as eye tracking but he also speak about technologies wich were just created at his time (such as the mouse, sketchpad, or plotting dots on a screen), his Vision of the Ultimate Display is more an area between Augmented Reality and Augmented Virtuality or even Virtual Reality. Indeed some of the technologies he speak about are more about Augmented Reality than Virtual Reality. But on the other side he speak about being able to see and sense things, such as purely mathematical phenomenon or complex physics phenomenom which are impossible to sense and see in Reality.</description>
+    </item>
+    
+    <item>
+      <title>Class Homework 1 : Hyper Reality</title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/class1-post/</link>
+      <pubDate>Sun, 28 Feb 2021 15:48:12 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/class1-post/</guid>
+      <description>My first scenarios is about the security of wearing a virtual headset. Nowadays it&amp;rsquo;s quite safe because it&amp;rsquo;s used indoor, sometimes it needs a guardian (ex : Oculus Quest) which allows the user to play only in a closed area. On the internet we can watch many fails and accidents due to the use of VR headset but it&amp;rsquo;s still quite safe because it&amp;rsquo;s always indoor in a limited area. Using a headset outside could be far more dangerous.</description>
+    </item>
+    
     <item>
       <title>Lab Homework 2 : Setup Unity</title>
       <link>https://Wamzaa.github.io/HCIwebsite/posts/lab2-post/</link>
