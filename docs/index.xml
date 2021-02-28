@@ -6,14 +6,69 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 15:48:18 +0100</lastBuildDate><atom:link href="https://Wamzaa.github.io/HCIwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 15:56:58 +0100</lastBuildDate><atom:link href="https://Wamzaa.github.io/HCIwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab Homework 5 : VR Locomotion Implementation</title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/lab5-post/</link>
+      <pubDate>Sun, 28 Feb 2021 15:56:58 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/lab5-post/</guid>
+      <description>My locomotion technique is based on the 3 dimensional maneuver gear from the famous manga named Attack on Titan (Shingeki no Kyojin). The main idea is to use two grappling hook in order to be hooked to buildings or trees and then to move around them.
+Each grappling hook is controlled by one oculus quest controller (independantly from the other grappling hook). The player use raycasting in order to point to a surface.</description>
+    </item>
+    
+    <item>
+      <title>Class 5 : Final Presentation</title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/class5-post/</link>
+      <pubDate>Sun, 28 Feb 2021 15:56:49 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/class5-post/</guid>
+      <description>In order to present my Locomotion technique I made a presentation : here is the link to download the slides</description>
+    </item>
+    
+    <item>
+      <title>Class Homework 4: Evaluate your Locomotion Technique </title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/class4-post/</link>
+      <pubDate>Sun, 28 Feb 2021 15:56:42 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/class4-post/</guid>
+      <description>WIP</description>
+    </item>
+    
+    <item>
+      <title>Lab homework 4 : VR Locomotion Pitch</title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/lab4-post/</link>
+      <pubDate>Sun, 28 Feb 2021 15:56:34 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/lab4-post/</guid>
+      <description>The locomotion technique I chose to implement is the three dimensional maneuver gear from the famous manga Attack on Titan. I presented a pitch and here is a link to download my slides : /link/</description>
+    </item>
+    
+    <item>
+      <title>Class Homework 3: Sketch and present 3 ideas for Locomotion in VR</title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/class3-post/</link>
+      <pubDate>Sun, 28 Feb 2021 15:56:25 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/class3-post/</guid>
+      <description>My first locomotion technique is based on the three dimensional maneuver gear from the famous manga named Attack on Titan (Shingeki no Kyojin). In the manga the characters are using grappling hook to move around buildings or trees. Each character has one controller in each hand, a gas tank and a grappling hook launcher on each side, and a gas evacuation system in the back. Thanks to the controllers they can send a grappling hook on a surface, pull back the grappling hook, pull on the rope fixed to the grappling hook in order to be closer to the surface they are hooked to.</description>
+    </item>
+    
+    <item>
+      <title>Lab homework 3 : Unity Roll-A-Ball</title>
+      <link>https://Wamzaa.github.io/HCIwebsite/posts/lab3-post/</link>
+      <pubDate>Sun, 28 Feb 2021 15:56:17 +0100</pubDate>
+      
+      <guid>https://Wamzaa.github.io/HCIwebsite/posts/lab3-post/</guid>
+      <description>In the Roll-a-ball tutorial i didn&amp;rsquo;t really had difficulties because the tutorial is pretty well explained. But I learned many usefull things about Unity. The goal of this project is to create a game in which the player controls a ball in a closed field thanks to the directionnal arrows. The ball have to hit cubes in order to collect them and increase the player&amp;rsquo;s score. First I learned the main component of a scene : the game objects, the lights, the materials, etc&amp;hellip; .</description>
+    </item>
+    
     <item>
       <title>Class Homework 2 : Ultimate Display</title>
       <link>https://Wamzaa.github.io/HCIwebsite/posts/class2-post/</link>
       <pubDate>Sun, 28 Feb 2021 15:48:18 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/class2-post/</guid>
-      <description>Ivan Sutherland speak about powerfull technologies such as eye tracking but he also speak about technologies wich were just created at his time (such as the mouse, sketchpad, or plotting dots on a screen), his Vision of the Ultimate Display is more an area between Augmented Reality and Augmented Virtuality or even Virtual Reality. Indeed some of the technologies he speak about are more about Augmented Reality than Virtual Reality. But on the other side he speak about being able to see and sense things, such as purely mathematical phenomenon or complex physics phenomenom which are impossible to sense and see in Reality.</description>
+      <description>Ivan Sutherland speak about powerfull technologies such as eye tracking but he also speak about technologies which were just created at his time (such as the mouse, sketchpad, or plotting dots on a screen), his vision of the Ultimate Display is more like an area between Augmented Reality and Augmented Virtuality or even Virtual Reality. Indeed some of the technologies he speak about are more about Augmented Reality than Virtual Reality.</description>
     </item>
     
     <item>
@@ -22,7 +77,7 @@
       <pubDate>Sun, 28 Feb 2021 15:48:12 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/class1-post/</guid>
-      <description>My first scenarios is about the security of wearing a virtual headset. Nowadays it&amp;rsquo;s quite safe because it&amp;rsquo;s used indoor, sometimes it needs a guardian (ex : Oculus Quest) which allows the user to play only in a closed area. On the internet we can watch many fails and accidents due to the use of VR headset but it&amp;rsquo;s still quite safe because it&amp;rsquo;s always indoor in a limited area. Using a headset outside could be far more dangerous.</description>
+      <description>My first scenario is about the security of wearing a virtual headset. Nowadays it&amp;rsquo;s quite safe because it&amp;rsquo;s used indoor, sometimes it needs a guardian (ex : Oculus Quest) which allows the user to play only in a closed area. On the internet we can watch many fails and accidents due to the use of VR headsets but it&amp;rsquo;s still quite safe because it&amp;rsquo;s always indoor in a limited area. Using a headset outside could be far more dangerous.</description>
     </item>
     
     <item>
@@ -31,7 +86,7 @@
       <pubDate>Sun, 28 Feb 2021 15:34:34 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/lab2-post/</guid>
-      <description>This homework was instantly done for me because I already had Unity before. I just had had to download a new version compatible with the project. So this post will be quite empty because I had nothing to do here</description>
+      <description>This homework was instantly done for me because I already had Unity before. I just had had to download a new version compatible with the project. So this post will be quite empty because I had nothing to do for this lab</description>
     </item>
     
     <item>
@@ -40,7 +95,7 @@
       <pubDate>Tue, 12 Jan 2021 22:24:37 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/my-first-post/</guid>
-      <description>For my blog, I used Hugo. I chose Hugo because it was my first blog and everything about the setup was explain in the slides so it wasn&amp;rsquo;t too hard to setup the blog. The theme that I used is named binario.
+      <description>For my blog, I used Hugo. I&amp;rsquo;ve chosen Hugo because it was my first blog and everything about the setup was explained in the slides so it wasn&amp;rsquo;t too hard to setup the blog. The theme that I used is named binario.
 I didn&amp;rsquo;t encounter major obstacles since each steps of the setup was explained in the slides. The few problems I had are stupid mistakes with Git and mistakes when testing the blog.</description>
     </item>
     
