@@ -12,7 +12,7 @@ Eventually, the interface of the game could be quite invasive and hide important
 - Preventing the use of VR headsets outside everywhere in the street. We could imagine players playing outside but in a limited space such as a closed field
 - Creating really strict security measures in the development of AR games. For example, some laws could forbid too invasive interfaces, ... Or we could ask to these game to also detect potential dangers in order to warn the player
 
-{{< figure src="https://miro.medium.com/max/4000/1*1g1piH9PhM_tIhGkEoaTaw.jpeg" title="This player could be hit by a car" >}}
+{{< figure src="https://raw.githubusercontent.com/Wamzaa/HCIwebsite/master/static/img/1-1g1piH9PhM_tIhGkEoaTaw.jpeg" title="This player could be hit by a car" >}}
 
 My second scenario is quite similar but a bit different. In this scenario we are living in a society which rely a lot on VR technologies and in we which people have to wear a VR headset in order to drive a car. There could be many benefits, for example the road sign could be removed, and the augmented reality application used to drive could help the drivers by giving him more information on the road. 
 
@@ -20,4 +20,4 @@ But the main issue is that, even if the interface is really clear and do not hid
 
 The best way to prevent these issues is to forbid the use of VR technologies while driving.
 
-{{< figure src="https://gravityjack.com/wp-content/uploads/2016/12/Self-Driving-Car-App-In-Virtual-Reality-By-Gravity-Jack.jpg" title="The potential benefits of VR inside a car" >}}
+{{< figure src="https://raw.githubusercontent.com/Wamzaa/HCIwebsite/master/static/img/Self-Driving-Car-App-In-Virtual-Reality-By-Gravity-Jack.jpg" title="The potential benefits of VR inside a car" >}}
