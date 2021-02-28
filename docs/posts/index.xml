@@ -13,7 +13,8 @@
       <pubDate>Sun, 28 Feb 2021 15:56:58 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/lab5-post/</guid>
-      <description>My locomotion technique is based on the 3 dimensional maneuver gear from the famous manga named Attack on Titan (Shingeki no Kyojin). The main idea is to use two grappling hook in order to be hooked to buildings or trees and then to move around them.
+      <description>Introduction
+My locomotion technique is based on the 3 dimensional maneuver gear from the famous manga named Attack on Titan (Shingeki no Kyojin). The main idea is to use two grappling hooks in order to be hooked to buildings or trees and then to move around them.
 Each grappling hook is controlled by one oculus quest controller (independantly from the other grappling hook). The player use raycasting in order to point to a surface.</description>
     </item>
     
@@ -23,7 +24,7 @@ Each grappling hook is controlled by one oculus quest controller (independantly 
       <pubDate>Sun, 28 Feb 2021 15:56:49 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/class5-post/</guid>
-      <description>In order to present my Locomotion technique I made a presentation : here is the link to download the slides</description>
+      <description>In order to present my Locomotion technique I made a presentation : here is the link to download the slides : https://drive.google.com/file/d/1WkOOg8pgp4uc2rowNOW_M-XOb8LkRXBX/view?usp=sharing</description>
     </item>
     
     <item>
@@ -32,7 +33,9 @@ Each grappling hook is controlled by one oculus quest controller (independantly 
       <pubDate>Sun, 28 Feb 2021 15:56:42 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/class4-post/</guid>
-      <description>WIP</description>
+      <description>I showed my project to different friends. Two friends which are no longer studying in Telecom Paris told me that it was pretty cool and fun. Two others friends which are following this class have evaluated my locomotion technique.
+Here are the results :
+   Student Round time Accuracy Cyber-Sickness Presence Finished Rounds Fun     Me 55.9 0.04 4 9 9 9   Student 1 57 0.</description>
     </item>
     
     <item>
@@ -41,7 +44,8 @@ Each grappling hook is controlled by one oculus quest controller (independantly 
       <pubDate>Sun, 28 Feb 2021 15:56:34 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/lab4-post/</guid>
-      <description>The locomotion technique I chose to implement is the three dimensional maneuver gear from the famous manga Attack on Titan. I presented a pitch and here is a link to download my slides : /link/</description>
+      <description>The locomotion technique I&amp;rsquo;ve chosen to implement is the three dimensional maneuver gear from the famous manga Attack on Titan. I presented a pitch and here is a link to download my slides (without transitions) : https://drive.google.com/file/d/1iaQ-fzQJBP5xDwhqICo9aYiQV6nS0M2_/view?usp=sharing
+At this point the content is the same as in the Class Homework 3, because I just choose one of my 3 locomotion technique</description>
     </item>
     
     <item>
@@ -50,7 +54,8 @@ Each grappling hook is controlled by one oculus quest controller (independantly 
       <pubDate>Sun, 28 Feb 2021 15:56:25 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/class3-post/</guid>
-      <description>My first locomotion technique is based on the three dimensional maneuver gear from the famous manga named Attack on Titan (Shingeki no Kyojin). In the manga the characters are using grappling hook to move around buildings or trees. Each character has one controller in each hand, a gas tank and a grappling hook launcher on each side, and a gas evacuation system in the back. Thanks to the controllers they can send a grappling hook on a surface, pull back the grappling hook, pull on the rope fixed to the grappling hook in order to be closer to the surface they are hooked to.</description>
+      <description>3D Maneuver Gear
+My first locomotion technique is based on the three dimensional maneuver gear from the famous manga named Attack on Titan (Shingeki no Kyojin). In the manga the characters are using grappling hooks to move around buildings or trees. Each character has one controller in each hand, a gas tank and a grappling hook launcher on each side, and a gas evacuation system in the back. Thanks to the controllers they can send a grappling hook on a surface, pull back the grappling hook, pull on the rope fixed to the grappling hook in order to be closer to the surface they are hooked to.</description>
     </item>
     
     <item>
@@ -59,7 +64,8 @@ Each grappling hook is controlled by one oculus quest controller (independantly 
       <pubDate>Sun, 28 Feb 2021 15:56:17 +0100</pubDate>
       
       <guid>https://Wamzaa.github.io/HCIwebsite/posts/lab3-post/</guid>
-      <description>In the Roll-a-ball tutorial i didn&amp;rsquo;t really had difficulties because the tutorial is pretty well explained. But I learned many usefull things about Unity. The goal of this project is to create a game in which the player controls a ball in a closed field thanks to the directionnal arrows. The ball have to hit cubes in order to collect them and increase the player&amp;rsquo;s score. First I learned the main component of a scene : the game objects, the lights, the materials, etc&amp;hellip; .</description>
+      <description>In the Roll-a-ball tutorial i didn&amp;rsquo;t really had difficulties because the tutorial is pretty well explained. But I learned many usefull things about Unity. The goal of this project is to create a game in which the player controls a ball in a closed field thanks to the directionnal arrows. The ball have to hit cubes in order to collect them and increase the player&amp;rsquo;s score.
+First I learned the main component of a scene : the GameObjects, the lights, the materials, etc&amp;hellip; .</description>
     </item>
     
     <item>
