@@ -46,3 +46,7 @@ The last obstacle was about being pulled by the rope using the trigger. I choose
 Finally I'm quite happy with the result, and some friends told me that it was really fun and cool. Moreover I'm happy and proud because I learned a pile of things about VR with Unity
 
 {{< figure src="https://raw.githubusercontent.com/Wamzaa/HCIwebsite/master/static/img/2zkr4fuehxddafeee6juqk3pwxr72btd_00.jpg" title="I'm really happy with it" >}}
+
+Here are the links :
+- for downloading the .apk : /incoming/
+- git repository : https://github.com/Wamzaa/SNKLocomotionTechnique

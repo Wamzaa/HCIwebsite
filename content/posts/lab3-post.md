@@ -17,3 +17,7 @@ In the next part we create a new script to make the camera moving with the ball.
 Then the next step was to adapt this game in VR. I didn't encounter too much obstacles since everything was explained in the slides. We first have to create a new project and import the package of Oculus Integration, and then import a package which contains the elements of our classic roll-a-ball game. I learned how to use the input from the Oculus controllers. In this example we just have to check the value of the trigger. Eventually I learned about the layers. It was the hardest part of this lab because I spend a long time time to understand. The main idea is that elements from distinct layers can't interact together. So here, the ball, the walls and the collectibles aren't on the same layer as the collider of the board and the controllers. This lab was quite interesting because I realised that it's not that hard to create a VR game
 
 {{< figure src="https://raw.githubusercontent.com/Wamzaa/HCIwebsite/master/static/img/155143688_184512296442235_201895343635526591_n.jpg" title="Roll-a-Ball in VR : moving the board" >}}
+
+Here are the link for downloading the roll-a-ball games :
+- Classic Roll-a-Ball (.exe) : https://drive.google.com/file/d/1yK8iTw2-D6cL24Gr-Z4ra7gOA_hipxk_/view?usp=sharing
+- VR Roll-a-Ball (.apk) : https://drive.google.com/file/d/1iHDxLaPaqZmqN_BZ5UIhFAhhqli5BKqz/view?usp=sharing
