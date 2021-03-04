@@ -48,5 +48,6 @@ Finally I'm quite happy with the result, and some friends told me that it was re
 {{< figure src="https://raw.githubusercontent.com/Wamzaa/HCIwebsite/master/static/img/2zkr4fuehxddafeee6juqk3pwxr72btd_00.jpg" title="I'm really happy with it" >}}
 
 Here are the links :
-- for downloading the .apk : /incoming/
+- to watch the demo : https://drive.google.com/file/d/16p4BhidJjoE49twtbP5C8MgBlSgvZHgT/view?usp=sharing
+- for downloading the .apk : https://drive.google.com/file/d/1F9cOqH1OHX4MM4xJx6gbWx2BkHa2CgpZ/view?usp=sharing
 - git repository : https://github.com/Wamzaa/SNKLocomotionTechnique
